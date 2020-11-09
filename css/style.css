@@ -65,3 +65,23 @@ body{
     left: 0;
     min-height: 300px;
 }
+
+h4{
+
+
+    color: #0f0f0f;
+}
+
+
+label{
+
+
+    color: #0f0f0f;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
